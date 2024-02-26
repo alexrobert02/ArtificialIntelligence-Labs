@@ -3,7 +3,7 @@
 ### Homework
 We have a 3x3 matrix with 8 cells numbered 1 to 8 and one empty cell. Knowing that the initial position of the cells is random and that we can move a cell only in place of the empty cell and only if it is adjacent to it, find, if there is one, a sequence of moves such that all cells are placed in ascending order in the matrix. After a cell is moved it cannot be moved again until one of its neighbors has been moved. The position of the empty cell does not matter for final state validation.
 
-![states](states.png)
+![hw1-states.png](https://i.postimg.cc/155nC9jB/hw1-states.png)
 
 Use these instances for testing: [8, 6, 7, 2, 5, 4, 0, 3, 1], [2, 5, 3, 1, 0, 6, 4, 7, 8] and [2, 7 , 5, 0, 8, 4, 3, 1, 6].
 

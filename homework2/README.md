@@ -5,10 +5,10 @@ Consider a board of size 9x9, partially filled with digits from 1 to 9. Each row
 Apply the Forward checking algorithm together with a variable ordering method to determine the solutions of a given instance.
 
 Example:\
-<img src="input.png" width="250">
+<img src="https://i.postimg.cc/D09nrPJ8/hw2-input.png" width="250">
 
 The solution of the instance:\
-<img src="output.png" width="250">
+<img src="https://i.postimg.cc/GmQ9C6TK/hw2-output.png" width="250">
 
 **Requirements**:
 1. Model the problem as a constraint satisfaction problem
